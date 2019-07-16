@@ -1,3 +1,5 @@
+<table><tr><td><b>https://github.com/synergian/wagon-git library is out of date and does not support Gradle 5. Publishing does not work with the latest build tools.</b></td></tr></table>
+
 # WagonGitExample
 Sample project to use BitBucket as a private Maven repository.
 
